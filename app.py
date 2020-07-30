@@ -12,5 +12,3 @@ app = dash.Dash(
 tmp_app = flask.Flask(__name__)
 tmp_app.config.from_object("settings")
 app.config.update(tmp_app.config.items())
-
-server = app.server
