@@ -1,0 +1,9 @@
+pandas==0.25.3
+geopandas==0.6.1
+geopy==2.0.0
+environs==8.0.0
+dash==1.13.4
+plotly==4.8.2
+dash-bootstrap-components==0.10.3
+gunicorn==20.0.4
+
