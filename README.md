@@ -1,6 +1,6 @@
 # Portals Dashboard
 
-Interactive dashboard to explore geospatial data from [xgress.com](https://xgress.com). Try live version [here](https://portals-dashboard.herokuapps.com). A small sample of 1k records is provided for demonstration purposes.
+Interactive dashboard to explore geospatial data from [xgress.com](https://xgress.com). Try live version [here](https://portals-dashboard.herokuapp.com). A small sample of 1k records is provided for demonstration purposes.
 
 This dashboard was built using `dash`, `plotly`, and `pandas`.
 
