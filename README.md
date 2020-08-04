@@ -4,6 +4,12 @@ Interactive dashboard to explore geospatial data from [xgress.com](https://xgres
 
 This dashboard was built using `dash`, `plotly`, and `pandas`.
 
+## Screenshots
+
+![Activity Page](https://raw.githubusercontent.com/alex-melkoff/portals-dashboard/master/screenshots/screenshot_activity.png)
+![Countries Page](https://raw.githubusercontent.com/alex-melkoff/portals-dashboard/master/screenshots/screenshot_countries.png)
+![Communities Page](https://raw.githubusercontent.com/alex-melkoff/portals-dashboard/master/screenshots/screenshot_communities.png)
+
 ## Run Locally
 
 This dashboard requires a free API token from [Mapbox](https://mapbox.com)
